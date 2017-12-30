@@ -5,8 +5,8 @@
 # catalog-license bsd
 # catalog-version undef
 Name:		texlive-context-transliterator
-Version:	20130409
-Release:	9
+Version:	20170414
+Release:	1
 Summary:	Transliterate text from 'other' alphabets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/context/contrib/context-transliterator
