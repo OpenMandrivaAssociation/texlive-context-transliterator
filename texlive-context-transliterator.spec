@@ -1,6 +1,6 @@
 Name:		texlive-context-transliterator
 Version:	61127
-Release:	1
+Release:	2
 Summary:	Transliterate text from 'other' alphabets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/context/contrib/context-transliterator
