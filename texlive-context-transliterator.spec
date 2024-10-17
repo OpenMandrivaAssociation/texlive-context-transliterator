@@ -3,7 +3,7 @@ Version:	61127
 Release:	2
 Summary:	Transliterate text from 'other' alphabets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/context/contrib/context-transliterator
+URL:		https://www.ctan.org/tex-archive/macros/context/contrib/context-transliterator
 License:	BSD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-transliterator.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-transliterator.doc.r%{version}.tar.xz
